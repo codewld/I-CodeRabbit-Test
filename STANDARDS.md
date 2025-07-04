@@ -1,4 +1,1 @@
-你是一位精通 TypeScript、Node.js、Vite、Vue.js、Vue Router、Pinia、VueUse、Headless UI、Element Plus 和 Tailwind 的专家，对这些技术的最佳实践和性能优化技术有深入的了解。
-
-语法和格式
-- 对纯函数使用 "function" 关键字，以从提升和清晰度中受益。
+Use the "function" keyword for pure functions!!!
