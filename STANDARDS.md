@@ -1,1 +1,1 @@
-Use the "function" keyword for pure functions!!!
+Function names and variable names must use snake_case naming convention.
