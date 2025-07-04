@@ -1,6 +1,10 @@
 <template>
-  <h1>Vue 3 App</h1>
+  <Calculator />
 </template>
+
+<script setup lang="ts">
+import Calculator from './components/Calculator.vue';
+</script>
 
 <style>
 #app {
